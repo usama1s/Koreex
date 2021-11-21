@@ -13,7 +13,7 @@ $(document).ready(function(){
 
 $('.main-page-inner-carousel').slick({
   dots:true,
-  arrows:true,
+  arrows:false,
   initialSlide: 0,
   zIndex: 10000,
   // autoplay: true,
